@@ -1,7 +1,7 @@
 # Joguinho Poke
 
 <p align="center">
- Meu projeto/jogo de pokemon não finalizado, mais tem uma breve demostração ao lado dele: <a href="" target="_blank">"JOGO"</a>.
+ Meu projeto/jogo de pokemon não finalizado, mais tem uma breve demostração ao lado dele: <a href="https://drey021.github.io/Joguinho-poke/" target="_blank">"JOGO"</a>.
 </p>
 
 
